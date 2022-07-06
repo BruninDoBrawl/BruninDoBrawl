@@ -1,0 +1,3 @@
+- 👋 Salve, meu nome é Bruno
+- 👀 Estou interessado em aprender a programar
+- 🌱 Atualmente estou aprendendo Scratch e Github
